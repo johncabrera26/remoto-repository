@@ -6,3 +6,7 @@
    3 añadir nuevo archivo en github desktop [ git add]
 
    4 subir archivos a remoto [git push]
+   
+   5 modificar archivo en remoto 
+   
+   6 verificar los cambios en github desktop 
