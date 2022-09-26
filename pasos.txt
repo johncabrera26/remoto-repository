@@ -1,0 +1,8 @@
+    1 crear repositorio en github  [ remoto] 
+
+   2 abrir repositorio en github desktop [git clone ] local
+   
+
+   3 añadir nuevo archivo en github desktop [ git add]
+
+   4 subir archivos a remoto [git push]
